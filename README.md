@@ -1,12 +1,12 @@
-|- 👋 Hi, I’m @NekoYasha7|
+|- 👋 Hi, I’m @giovaneneves|
 |-------------------------|
 |- 👀 I’m interested in Front-end and Back-end Development...|
 |- 🌱 I’m currently learning C Lenguage...|
 
 <div align="center">
   <a href="https://github.com/NekoYasha7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NekoYasha7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoYasha7&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovaneneves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneneves&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
