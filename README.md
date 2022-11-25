@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @NekoYasha7
-- 👀 I’m interested in Front-end Development...
-- 🌱 I’m currently learning C Lenguage...
+|- 👋 Hi, I’m @NekoYasha7|
+|-------------------------|
+|- 👀 I’m interested in Front-end and Back-end Development...|
+|- 🌱 I’m currently learning C Lenguage...|
 
 <div align="center">
   <a href="https://github.com/NekoYasha7">
